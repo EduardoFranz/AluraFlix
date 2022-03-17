@@ -1,0 +1,90 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  background-image: url('');
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+/* .container {
+  text-align: center;
+  padding: 20px;
+}  */
+
+.page-title {
+  text-align: left;
+  color: #ffffff;
+  margin: 0 0 5px 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 150px;
+}
+
+.page-logo {
+  width: 200px;
+  position: absolute;
+  top: 10px;
+  left: 190px;
+  align-items: center;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+#listaFilmes img {
+  /* margin: 10px;
+  max-height: 200px;
+  border-radius: 10px;
+  border: 2px solid #ffffff; */
+
+  width: 100%;
+  max-width: 180px;
+  height: auto;
+  margin: 20px;
+  border: 2px solid #ffff;
+  border-radius: 7px;
+}
+
+#listaFilmes img:hover {
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.2);
+}
+.form-wrapper {
+  margin: 0 0 15px;
+}
+
+.form-wrapper input {
+  background-color: gainsboro;
+  width: 700px;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+  padding: 8px 15px;
+  text-align: center;
+}
+
+.form-wrapper button {
+  border: 0;
+  color: #ffffff;
+  background: #da1e26;
+  font-weight: bold;
+  padding: 15px 20px;
+  font-size: 16px;
+  border-radius: 4px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.form-wrapper button:hover {
+  opacity: 0.8;
+}
