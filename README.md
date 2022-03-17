@@ -1,8 +1,9 @@
 # AluraFlix
+Projeto Alura | Imersão-Dev
 
-Desafio: Fazer um catalogo de filmes, semelhante ao da Netflix.
+Um catalogo de filmes
 ---------------------------------------------------------------
-### Conteúdo detalhado:
+#### Conteúdo detalhado:
 
 * Sintaxe e criação de funções no JavaScript;
 * Integrando funções criadas no JavaScript com o HTML que está sendo exibido na tela;
