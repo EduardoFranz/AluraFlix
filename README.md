@@ -1,7 +1,7 @@
 # AluraFlix
 Projeto Alura | Imersão-Dev
 
-Um catalogo de filmes
+Um catálogo de filmes
 ---------------------------------------------------------------
 #### Conteúdo detalhado:
 
